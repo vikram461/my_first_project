@@ -8,6 +8,7 @@ PEP 8 : (Python's style guide) requires 2 blank lines between the module-level
 def main():
     """This is the main function."""
     print("Hello, World!")
+    print("Hello, Python!")
 
 
 if __name__ == "__main__":
